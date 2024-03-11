@@ -1,0 +1,1 @@
+DeclareExample(Textures "Logo.png")

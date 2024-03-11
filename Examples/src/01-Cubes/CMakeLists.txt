@@ -1,0 +1,1 @@
+DeclareExample(Cubes "Cubes.glsl")

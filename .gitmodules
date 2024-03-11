@@ -1,0 +1,6 @@
+[submodule "Examples/extern/glfw"]
+	path = Examples/extern/glfw
+	url = https://github.com/glfw/glfw
+[submodule "HarmonyAPI/extern/SPIRV-Cross"]
+	path = HarmonyAPI/extern/SPIRV-Cross
+	url = https://github.com/KhronosGroup/SPIRV-Cross
