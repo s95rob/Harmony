@@ -37,4 +37,3 @@ endfunction()
 
 add_subdirectory("src/01-Cubes" "01-Cubes")
 add_subdirectory("src/02-Textures" "02-Textures")
-add_subdirectory("src/03-Mesh" "03-Mesh")
