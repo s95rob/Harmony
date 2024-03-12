@@ -1,1 +1,1 @@
-DeclareExample(Cubes "Cubes.glsl")
+DeclareExample(Cubes)
