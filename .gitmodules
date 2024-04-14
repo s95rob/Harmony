@@ -1,0 +1,3 @@
+[submodule "Harmony/extern/SPIRV-Cross"]
+	path = Harmony/extern/SPIRV-Cross
+	url = https://github.com/KhronosGroup/SPIRV-Cross
